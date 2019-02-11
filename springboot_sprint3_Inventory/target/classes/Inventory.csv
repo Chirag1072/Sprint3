@@ -1,0 +1,4 @@
+skuId,productName,inventoryOnHand,productLabel,minQtyReq,price
+1,Laptop,5,HPLaptop,3,100
+2,Mobile,15,Apple,10,195
+3,SmartWatch,7,Galaxy,2,90
